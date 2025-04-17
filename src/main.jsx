@@ -1,10 +1,10 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import SorteioBotPainel from "./SorteioBotPainel";
-import "../style.css";
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './SorteioBotPainel'
+import '../style.css'
 
-ReactDOM.createRoot(document.getElementById("root")).render(
+ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <SorteioBotPainel />
+    <App />
   </React.StrictMode>
-);
+)
