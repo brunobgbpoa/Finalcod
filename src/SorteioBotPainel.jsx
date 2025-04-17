@@ -84,7 +84,7 @@ export default function SorteioBotPainel() {
       </div>
 
       <footer className="text-center mt-12 text-sm text-gray-400 dark:text-gray-500">
-        © 2025 SorteioBot. Inspirado por Stripe.
+        © 2025 SorteioBot. 
       </footer>
     </div>
   );
